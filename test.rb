@@ -1,4 +1,4 @@
-first_number = 70
-second_number = 100
-result = first_number * second_number
-puts(result)
+a = 5
+b = 10
+result = a > b ? 1 : a < b ? -1 : 0
+puts result
